@@ -1,9 +1,9 @@
 {
-  "name": "domready-loaded",
+  "name": "@mikaelkristiansson/domready",
   "description": "modern domready",
   "version": "1.0.9",
   "homepage": "https://github.com/mikaelkristiansson/domready",
-  "author": "Dustin Diaz <dustin@dustindiaz.com> (http://dustindiaz.com)",
+  "author": "Mikael Kristiansson",
   "keywords": [
     "ender",
     "domready",
