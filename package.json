@@ -4,6 +4,7 @@
   "version": "1.0.10",
   "homepage": "https://github.com/mikaelkristiansson/domready",
   "author": "Mikael Kristiansson",
+  "license": "MIT",
   "keywords": [
     "ender",
     "domready",
