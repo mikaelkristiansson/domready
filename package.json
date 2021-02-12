@@ -1,7 +1,7 @@
 {
   "name": "@mikaelkristiansson/domready",
   "description": "modern domready",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "homepage": "https://github.com/mikaelkristiansson/domready",
   "author": "Mikael Kristiansson",
   "license": "MIT",
